@@ -20,7 +20,8 @@
 
 ## Автор
 
-Этот скрипт разработан Timmu Wollhout.
+Этот скрипт разработал Timmu Wollhout.
+vk - https://vk.com/exe.eror | Discord - timmu.exe
 
 ## Лицензия
 
